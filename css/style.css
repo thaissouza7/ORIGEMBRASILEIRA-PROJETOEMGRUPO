@@ -376,11 +376,11 @@ a:visited {
     .decoracaoNossoCardapio {
         height: 25px;
         background-size: cover;
-        margin: 0;
+        margin: 8px;
     }
 
     .opcoesMenu {
-        height: 4.8vh;
+        height: 5vh;
         margin: 0;
 
     }
